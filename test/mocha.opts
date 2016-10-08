@@ -1,0 +1,4 @@
+--require babel-core/register.js
+--recursive
+--es_staging
+--colors

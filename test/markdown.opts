@@ -1,0 +1,4 @@
+--require babel-core/register.js
+--recursive
+--reporter markdown
+--es_staging
